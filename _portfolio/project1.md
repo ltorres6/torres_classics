@@ -18,3 +18,13 @@ The project included a full engine rebuild of the original 390 V8, transmission 
 - Completion Date: March 2023
 - Client: Private Collector
 - Category: Complete Restoration
+
+{:.gallery}
+![car1_16-15-46](assets/img/portfolio/renamed_cars/car1_oct29/car1_16-15-46.jpg)
+![car1_16-16-31](assets/img/portfolio/renamed_cars/car1_oct29/car1_16-16-31.jpg)
+![car1_16-17-09](assets/img/portfolio/renamed_cars/car1_oct29/car1_16-17-09.jpg)
+![car1_16-17-38](assets/img/portfolio/renamed_cars/car1_oct29/car1_16-17-38.jpg)
+![car1_16-18-19](assets/img/portfolio/renamed_cars/car1_oct29/car1_16-18-19.jpg)
+![car1_16-18-43](assets/img/portfolio/renamed_cars/car1_oct29/car1_16-18-43.jpg)
+![car1_16-19-45](assets/img/portfolio/renamed_cars/car1_oct29/car1_16-19-45.jpg)
+![car1_16-21-13](assets/img/portfolio/renamed_cars/car1_oct29/car1_16-21-13.jpg)

@@ -67,7 +67,7 @@ en: &DEFAULT_EN
   about:
     title: "About Torres Classics"
     text: "our story"
-    body: "Founded on a passion for automotive history and craftsmanship, Torres Classics specializes in the meticulous restoration of classic and vintage automobiles. Our team combines traditional restoration techniques with modern technology to preserve the heritage and increase the value of these automotive treasures."
+    body: "Founded on a passion for automotive history and craftsmanship, Torres Classics specializes in the meticulous restoration of classic and vintage automobiles. Our team combines traditional restoration techniques with modern technology to preserve the heritage and increase the value of these automotive treasures. Antonio Torres, the founder, started working on cars in Mexico as a young boy, passing down his knowledge and passion to his son Horacio and grandson Omar."
     section: about
 
   clients:
@@ -94,19 +94,19 @@ en: &DEFAULT_EN
     subtext: Each member of our team brings specialized skills and years of experience in classic car restoration, ensuring every project receives the highest level of expertise and care.
     section: team
     people:
-      - name: "John Torres"
+      - name: "Antonio Torres"
         role: "Master Restorer & Founder"
         image: assets/img/team/1.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Michael Rodriguez"
+      - name: "Horacio Torres"
         role: "Engine Specialist"
         image: assets/img/team/2.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Sarah Johnson"
+      - name: "Omar Torres"
         role: "Upholstery Expert"
         image: assets/img/team/3.jpg
         social:

@@ -1,13 +1,13 @@
 ---
 title: 1962 Ferrari 250 GT Berlinetta
 subtitle: Concours-level restoration of an iconic Italian classic
-image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/renamed_cars/car3_oct30later/car3_09-22-26.jpg
 alt: Restored Ferrari 250 GT Berlinetta
 
 caption:
   title: Ferrari 250 GT
   subtitle: Concours Restoration
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/renamed_cars/car3_oct30later/car3_09-22-26.jpg
 ---
 This exquisite 1962 Ferrari 250 GT Berlinetta underwent a painstaking three-year restoration process to bring it to concours-level condition. Working closely with Ferrari Classiche Department, we ensured every detail was authenticated and restored to factory specifications.
 

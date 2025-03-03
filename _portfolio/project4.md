@@ -1,13 +1,13 @@
 ---
 title: 1963 Jaguar E-Type Series 1
 subtitle: Sympathetic restoration with performance enhancements
-image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/renamed_cars/car4_nov01/car4_14-13-48.jpg
 alt: Restored Jaguar E-Type Series 1
 
 caption:
   title: Jaguar E-Type
   subtitle: Sympathetic Restoration
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/renamed_cars/car4_nov01/car4_14-13-56.jpg
 ---
 This beautiful 1963 Jaguar E-Type Series 1 Roadster received a sympathetic restoration focused on preserving its originality while improving reliability and performance for regular road use.
 

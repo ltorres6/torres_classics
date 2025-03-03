@@ -1,13 +1,13 @@
 ---
 title: 1955 Mercedes-Benz 300SL Gullwing
 subtitle: Full restoration of a rare classic with modern upgrades
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-01-06.jpg
 alt: Restored Mercedes 300SL Gullwing
 
 caption:
   title: Mercedes 300SL
   subtitle: Prestige Restoration
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-01-50.jpg
 ---
 This remarkable 1955 Mercedes-Benz 300SL Gullwing came to us in need of a complete restoration. The client desired to maintain the vehicle's historical significance while incorporating subtle modern upgrades for improved drivability.
 

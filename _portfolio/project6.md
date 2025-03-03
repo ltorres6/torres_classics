@@ -1,13 +1,13 @@
 ---
 title: 1973 Porsche 911 Carrera RS 2.7
 subtitle: Factory-authentic restoration of a rare performance icon
-image: assets/img/portfolio/06-full.jpg
+image: assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-02-10.jpg
 alt: Restored Porsche 911 Carrera RS 2.7
 
 caption:
   title: Porsche 911 RS
   subtitle: Heritage Restoration
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  thumbnail: assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-02-28.jpg
 ---
 This rare 1973 Porsche 911 Carrera RS 2.7 underwent an exhaustive factory-authentic restoration to bring it back to its original glory. As one of only 1,580 examples ever produced, meticulous attention to originality was paramount throughout the restoration process.
 

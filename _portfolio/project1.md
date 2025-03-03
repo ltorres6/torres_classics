@@ -1,13 +1,13 @@
 ---
 title: 1967 Ford Mustang Fastback
 subtitle: Complete frame-off restoration with period-correct specifications
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/renamed_cars/car1_oct29/car1_16-15-46.jpg
 alt: Restored Ford Mustang Fastback
 
 caption:
   title: '67 Mustang Restoration
   subtitle: Complete Restoration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/renamed_cars/car1_oct29/car1_16-16-31.jpg
 ---
 This 1967 Ford Mustang Fastback underwent a meticulous frame-off restoration in our workshop. The client requested a period-correct restoration that maintained the vehicle's original character while ensuring reliable performance for regular driving enjoyment.
 

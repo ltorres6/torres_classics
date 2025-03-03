@@ -1,13 +1,13 @@
 ---
 title: 1970 Chevrolet Chevelle SS 454
 subtitle: Classic American muscle car restoration with original big-block power
-image: assets/img/portfolio/05-full.jpg
+image: assets/img/portfolio/renamed_cars/car1_oct29/car1_16-17-09.jpg
 alt: Restored Chevrolet Chevelle SS 454
 
 caption:
   title: Chevelle SS 454
   subtitle: Muscle Car Restoration
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/renamed_cars/car1_oct29/car1_16-17-38.jpg
 ---
 This iconic 1970 Chevrolet Chevelle SS 454 LS6 came to us as a numbers-matching example in need of a complete restoration. Our client wanted to preserve the car's raw muscle car character while ensuring it was mechanically sound and visually stunning.
 

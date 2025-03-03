@@ -1,18 +1,22 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: 1962 Ferrari 250 GT Berlinetta
+subtitle: Concours-level restoration of an iconic Italian classic
 image: assets/img/portfolio/03-full.jpg
-alt: 
+alt: Restored Ferrari 250 GT Berlinetta
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Ferrari 250 GT
+  subtitle: Concours Restoration
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+This exquisite 1962 Ferrari 250 GT Berlinetta underwent a painstaking three-year restoration process to bring it to concours-level condition. Working closely with Ferrari Classiche Department, we ensured every detail was authenticated and restored to factory specifications.
+
+The project involved complete disassembly and documentation of all components, with the V12 engine rebuilt by our Ferrari-certified technicians. The bodywork required extensive sheet metal fabrication to address decades of deterioration while maintaining the original panels whenever possible.
+
+The final result is a flawless example of this iconic Italian GT in its original Rosso Corsa color with tan leather interior, documented with Ferrari Classiche certification.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
 
+- Completion Date: November 2021
+- Client: Private Collection
+- Category: Concours Restoration

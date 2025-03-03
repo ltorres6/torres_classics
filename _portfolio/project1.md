@@ -1,18 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: 1967 Ford Mustang Fastback
+subtitle: Complete frame-off restoration with period-correct specifications
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Restored Ford Mustang Fastback
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: '67 Mustang Restoration
+  subtitle: Complete Restoration
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+This 1967 Ford Mustang Fastback underwent a meticulous frame-off restoration in our workshop. The client requested a period-correct restoration that maintained the vehicle's original character while ensuring reliable performance for regular driving enjoyment.
+
+The project included a full engine rebuild of the original 390 V8, transmission overhaul, complete interior restoration with correct materials and patterns, and a flawless exterior finish in the factory Highland Green. Every component was either restored or replaced with authentic parts to maintain the vehicle's historical integrity.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
 
+- Completion Date: March 2023
+- Client: Private Collector
+- Category: Complete Restoration

@@ -11,67 +11,63 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Torres Classics
+    text: Premium Automotive Restoration
+    button: View Our Work
+    buttonlink: "#portfolio"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Our Services"
+    text: "Specialized vintage and classic car restoration services"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Complete Restorations"
+        desc: "Full frame-off restorations that bring vintage automobiles back to factory specifications or better. Each project receives our undivided attention to detail."
+        icon: fas fa-tools
+      - title: "Custom Builds"
+        desc: "Personalized restoration projects that blend classic aesthetics with modern performance and reliability upgrades to create your dream machine."
+        icon: fas fa-car
+      - title: "Component Rebuilds"
+        desc: "Expert rebuilding of engines, transmissions, and other mechanical systems with authentic parts and meticulous craftsmanship."
+        icon: fas fa-cogs
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Our Restorations"
+    text: "Each car tells a unique story of preservation and craftsmanship"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Restoration Process"
+    text: "Our meticulous approach to bringing classics back to life"
     section: timeline
-    # left is the default
-    #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Assessment & Planning"
+        year: "Phase 1"
+        desc: "Each restoration begins with a thorough evaluation of the vehicle's condition. We document every detail and develop a comprehensive restoration plan tailored to your goals and the vehicle's history."
         image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        alt: Assessment phase
+      - title: "Disassembly & Cataloging"
+        year: "Phase 2"
+        desc: "The vehicle is carefully disassembled with each part documented, labeled, and assessed for restoration or replacement. This meticulous process ensures nothing is overlooked."
         image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        alt: Disassembly phase
+      - title: "Restoration & Fabrication"
+        year: "Phase 3"
+        desc: "The heart of the process where our craftsmen restore or fabricate components to bring the vehicle back to its former glory, whether matching factory specifications or incorporating custom elements."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        alt: Restoration phase
+      - title: "Reassembly & Testing"
+        year: "Phase 4"
+        desc: "Components are carefully reassembled, systems are tested and tuned, and final detailing is performed to meet our exacting standards before delivery to the client."
         image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+        alt: Final assembly
+    end: "Your Classic <br> Reborn <br> With Passion!"
 
   about:
-    title: "About Us"
+    title: "About Torres Classics"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Founded on a passion for automotive history and craftsmanship, Torres Classics specializes in the meticulous restoration of classic and vintage automobiles. Our team combines traditional restoration techniques with modern technology to preserve the heritage and increase the value of these automotive treasures."
     section: about
 
   clients:
@@ -79,59 +75,47 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Client 1"
+        url: #
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Client 2"
+        url: #
         logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Client 3"
+        url: #
         logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Client 4"
+        url: #
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "OUR EXPERT TEAM"
+    text: "Master craftsmen dedicated to automotive excellence"
+    subtext: Each member of our team brings specialized skills and years of experience in classic car restoration, ensuring every project receives the highest level of expertise and care.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "John Torres"
+        role: "Master Restorer & Founder"
+        image: assets/img/team/1.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Michael Rodriguez"
+        role: "Engine Specialist"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Sarah Johnson"
+        role: "Upholstery Expert"
+        image: assets/img/team/3.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Reach out to discuss your restoration project"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -139,24 +123,22 @@ en: &DEFAULT_EN
     email-validation: "Please enter your email address."
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
+    message: "Your Project Details*"
+    message-validation: "Please tell us about your project."
+    subject: "Torres Classics Contact Form Submission"
     submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://youtube.com
+        icon: "fab fa-youtube"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

@@ -22,6 +22,6 @@ The original British Racing Green finish was meticulously recreated using modern
 - Category: Sympathetic Restoration
 
 {:.gallery}
-![car4_14-13-48](assets/img/portfolio/renamed_cars/car4_nov01/car4_14-13-48.jpg)
-![car4_14-13-56](assets/img/portfolio/renamed_cars/car4_nov01/car4_14-13-56.jpg)
-![car4_14-14-04](assets/img/portfolio/renamed_cars/car4_nov01/car4_14-14-04.jpg)
+![car4_14-13-48](assets/img/portfolio/renamed_cars/car4_nov01/car4_14-13-48.jpg){: .img-fluid}
+![car4_14-13-56](assets/img/portfolio/renamed_cars/car4_nov01/car4_14-13-56.jpg){: .img-fluid}
+![car4_14-14-04](assets/img/portfolio/renamed_cars/car4_nov01/car4_14-14-04.jpg){: .img-fluid}

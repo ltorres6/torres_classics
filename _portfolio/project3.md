@@ -16,7 +16,7 @@ The project involved complete disassembly and documentation of all components, w
 The final result is a flawless example of this iconic Italian GT in its original Rosso Corsa color with tan leather interior, documented with Ferrari Classiche certification.
 
 {:.gallery}
-![car3_09-22-26](assets/img/portfolio/renamed_cars/car3_oct30later/car3_09-22-26.jpg)
+![car3_09-22-26](assets/img/portfolio/renamed_cars/car3_oct30later/car3_09-22-26.jpg){: .img-fluid}
 
 {:.list-inline}
 

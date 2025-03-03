@@ -22,16 +22,16 @@ The stunning silver exterior finish is complemented by a meticulously crafted re
 - Category: Prestige Restoration
 
 {:.gallery}
-![car2_06-01-06](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-01-06.jpg)
-![car2_06-01-50](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-01-50.jpg)
-![car2_06-02-10](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-02-10.jpg)
-![car2_06-02-28](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-02-28.jpg)
-![car2_06-03-28](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-03-28.jpg)
-![car2_06-03-46](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-03-46.jpg)
-![car2_06-04-05](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-04-05.jpg)
-![car2_06-04-36](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-04-36.jpg)
-![car2_06-05-26](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-05-26.jpg)
-![car2_06-05-36](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-05-36.jpg)
-![car2_06-06-03](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-06-03.jpg)
-![car2_06-06-48](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-06-48.jpg)
-![car2_06-18-05](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-18-05.jpg)
+![car2_06-01-06](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-01-06.jpg){: .img-fluid}
+![car2_06-01-50](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-01-50.jpg){: .img-fluid}
+![car2_06-02-10](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-02-10.jpg){: .img-fluid}
+![car2_06-02-28](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-02-28.jpg){: .img-fluid}
+![car2_06-03-28](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-03-28.jpg){: .img-fluid}
+![car2_06-03-46](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-03-46.jpg){: .img-fluid}
+![car2_06-04-05](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-04-05.jpg){: .img-fluid}
+![car2_06-04-36](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-04-36.jpg){: .img-fluid}
+![car2_06-05-26](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-05-26.jpg){: .img-fluid}
+![car2_06-05-36](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-05-36.jpg){: .img-fluid}
+![car2_06-06-03](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-06-03.jpg){: .img-fluid}
+![car2_06-06-48](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-06-48.jpg){: .img-fluid}
+![car2_06-18-05](assets/img/portfolio/renamed_cars/car2_oct30morning/car2_06-18-05.jpg){: .img-fluid}

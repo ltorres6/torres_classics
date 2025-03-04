@@ -25,7 +25,9 @@ The engine was fully rebuilt with upgraded cooling and electronic ignition for i
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/portfolio/renamed_cars/car4_nov01/' %}
     <div class="col-md-4">
-      <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+      <a href="{{ image.path }}" target="_blank">
+        <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+      </a>
     </div>
   {% endif %}
 {% endfor %}

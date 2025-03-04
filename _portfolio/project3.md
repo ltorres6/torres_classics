@@ -20,7 +20,9 @@ The final result is a flawless example of this iconic American classic in its or
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/portfolio/renamed_cars/car3_oct30later/' %}
     <div class="col-md-4">
-      <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+      <a href="{{ image.path }}" target="_blank">
+        <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+      </a>
     </div>
   {% endif %}
 {% endfor %}

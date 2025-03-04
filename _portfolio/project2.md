@@ -26,7 +26,9 @@ The stunning exterior finish is complemented by a meticulously crafted interior 
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/portfolio/renamed_cars/car2_oct30morning/' %}
     <div class="col-md-4">
-      <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+      <a href="{{ image.path }}" target="_blank">
+        <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+      </a>
     </div>
   {% endif %}
 {% endfor %}

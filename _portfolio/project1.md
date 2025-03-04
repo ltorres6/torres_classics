@@ -20,8 +20,12 @@ The project included a full engine rebuild, transmission overhaul, complete inte
 - Category: Complete Restoration
 
 {:.gallery}
+<div class="row">
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/portfolio/renamed_cars/car1_oct29/' %}
-    <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+    <div class="col-md-4">
+      <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+    </div>
   {% endif %}
 {% endfor %}
+</div>

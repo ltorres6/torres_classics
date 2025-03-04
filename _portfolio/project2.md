@@ -22,8 +22,12 @@ The stunning exterior finish is complemented by a meticulously crafted interior 
 - Category: Prestige Restoration
 
 {:.gallery}
+<div class="row">
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/portfolio/renamed_cars/car2_oct30morning/' %}
-    <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+    <div class="col-md-4">
+      <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+    </div>
   {% endif %}
 {% endfor %}
+</div>

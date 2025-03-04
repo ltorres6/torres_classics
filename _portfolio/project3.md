@@ -16,11 +16,15 @@ The project involved complete disassembly and documentation of all components, w
 The final result is a flawless example of this iconic American classic in its original color with a meticulously restored interior.
 
 {:.gallery}
+<div class="row">
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/portfolio/renamed_cars/car3_oct30later/' %}
-    <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+    <div class="col-md-4">
+      <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+    </div>
   {% endif %}
 {% endfor %}
+</div>
 
 {:.list-inline}
 

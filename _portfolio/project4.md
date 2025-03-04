@@ -21,8 +21,12 @@ The engine was fully rebuilt with upgraded cooling and electronic ignition for i
 - Category: Sympathetic Restoration
 
 {:.gallery}
+<div class="row">
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/portfolio/renamed_cars/car4_nov01/' %}
-    <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+    <div class="col-md-4">
+      <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
+    </div>
   {% endif %}
 {% endfor %}
+</div>

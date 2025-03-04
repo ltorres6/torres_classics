@@ -25,12 +25,7 @@ header.masthead {
   height: 100vh;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(
-      to bottom right,
-      rgba(255, 255, 0, 0.5),
-      /* yellow */ rgba(255, 0, 0, 0.5) /* red */
-    ),
-    url("../img/header-bg.jpg");
+  background: url("../img/header-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;

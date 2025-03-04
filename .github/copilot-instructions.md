@@ -62,3 +62,8 @@ When suggesting code, optimize for Jekyll best practices and static site perform
 - Performance optimization for fast loading
 - Social media integration for sharing
 - Image galleries for showcasing projects
+
+## Colors and Typography
+
+- My logo is yellow and red. The website should use or complement these colors.
+- The font should be a classical look.

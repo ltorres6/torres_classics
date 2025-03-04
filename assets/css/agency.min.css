@@ -4,8 +4,9 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE)
  */
 
+/* Custom styles for Torres Classics */
 body {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   color: #333;
 }
 
@@ -15,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-family: "Georgia", serif;
 }
 
 header.masthead {
@@ -26,8 +27,8 @@ header.masthead {
   padding-bottom: 8rem;
   background: linear-gradient(
       to bottom right,
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
+      rgba(255, 255, 0, 0.5),
+      /* yellow */ rgba(255, 0, 0, 0.5) /* red */
     ),
     url("../img/header-bg.jpg");
   background-position: center;
@@ -63,6 +64,25 @@ header.masthead .intro-text .btn {
   text-transform: uppercase;
   padding: 15px 30px;
   border-radius: 3px;
+}
+
+/* BEM methodology for CSS classes */
+.header__title {
+  font-size: 2rem;
+  color: #ff0000; /* red */
+}
+
+.header__subtitle {
+  font-size: 1.5rem;
+  color: #ffff00; /* yellow */
+}
+
+/* Responsive design adjustments */
+@media (max-width: 768px) {
+  header.masthead .intro-text {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
 }
 
 /* Additional custom styles can be added here */

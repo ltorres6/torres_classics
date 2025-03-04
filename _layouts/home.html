@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{% include navheader.html %}
+
+{% if site.locale and site.locale != "" and site.locale != nil %}
+  {% assign sections = site.data.sitetext[site.locale] %}
+{% else %}
+  {% assign sections = site.data.sitetext %}
+{% endif %}
+
+{% include services.html %}
+{% include portfolio_grid.html %}
+{% include about.html %}
+{% include timeline.html %}
+{% include team.html %}
+{% include clients.html %}
+{% include contact.html %}

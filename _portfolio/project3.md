@@ -18,7 +18,7 @@ The final result is a flawless example of this iconic American classic in its or
 {:.gallery}
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/portfolio/renamed_cars/car3_oct30later/' %}
-    ![{{ image.name }}]({{ image.path }}){: .img-fluid}
+    <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
   {% endif %}
 {% endfor %}
 

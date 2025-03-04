@@ -23,6 +23,6 @@ The engine was fully rebuilt with upgraded cooling and electronic ignition for i
 {:.gallery}
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/portfolio/renamed_cars/car4_nov01/' %}
-    ![{{ image.name }}]({{ image.path }}){: .img-fluid}
+    <img src="{{ image.path }}" alt="{{ image.name }}" class="img-fluid" />
   {% endif %}
 {% endfor %}

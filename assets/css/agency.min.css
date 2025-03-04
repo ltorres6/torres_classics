@@ -114,6 +114,10 @@ header.masthead .intro-text .btn {
   .contact-form .btn {
     font-size: 1rem;
   }
+  .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
 
 /* Additional custom styles can be added here */

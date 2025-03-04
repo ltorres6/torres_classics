@@ -78,6 +78,42 @@ header.masthead .intro-text .btn {
     padding-top: 100px;
     padding-bottom: 100px;
   }
+  .section-heading {
+    font-size: 1.5rem;
+  }
+  .section-subheading {
+    font-size: 1rem;
+  }
+  .portfolio-item {
+    margin-bottom: 30px;
+  }
+  .portfolio-caption h4 {
+    font-size: 1.2rem;
+  }
+  .portfolio-caption p {
+    font-size: 0.9rem;
+  }
+  .team-member h4 {
+    font-size: 1.2rem;
+  }
+  .team-member p {
+    font-size: 0.9rem;
+  }
+  .timeline .timeline-panel {
+    padding: 20px;
+  }
+  .timeline .timeline-heading h4 {
+    font-size: 1.2rem;
+  }
+  .timeline .timeline-body p {
+    font-size: 0.9rem;
+  }
+  .contact-form .form-control {
+    font-size: 0.9rem;
+  }
+  .contact-form .btn {
+    font-size: 1rem;
+  }
 }
 
 /* Additional custom styles can be added here */

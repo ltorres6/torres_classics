@@ -6,7 +6,7 @@
 
 /* Custom styles for Torres Classics */
 body {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Garamond", "Times New Roman", Times, serif;
   color: #333;
 }
 
@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Georgia", serif;
+  font-family: "Baskerville", "Georgia", serif;
 }
 
 header.masthead {

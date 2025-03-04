@@ -23,7 +23,7 @@ The stunning exterior finish is complemented by a meticulously crafted interior 
 
 {:.gallery}
 {% for image in site.static_files %}
-  {% if image.path contains 'assets/img/portfolio/renamed_cars/car2_oct30morning' %}
+  {% if image.path contains '/assets/img/portfolio/renamed_cars/car2_oct30morning/' %}
     ![{{ image.name }}]({{ image.path }}){: .img-fluid}
   {% endif %}
 {% endfor %}

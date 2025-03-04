@@ -21,7 +21,7 @@ The project included a full engine rebuild, transmission overhaul, complete inte
 
 {:.gallery}
 {% for image in site.static_files %}
-  {% if image.path contains 'assets/img/portfolio/renamed_cars/car1_oct29' %}
+  {% if image.path contains '/assets/img/portfolio/renamed_cars/car1_oct29/' %}
     ![{{ image.name }}]({{ image.path }}){: .img-fluid}
   {% endif %}
 {% endfor %}
